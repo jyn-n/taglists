@@ -1,13 +1,13 @@
 ﻿Trevor Morris,Vikings
-001:
-002:
+001: 
+002: 
 003: Düster,Erwartungsvoll,Unheimlich,Mystisch,Dungeon,Ritual
 004: Melancholisch,Klagend,Würdevoll
 005: Heroisch,Erwartungsvoll,Reise,Norden,Melancholisch
 006: Heroisch,Erwartungsvoll,Norden,Melancholisch
 007: Mystisch,Dungeon,Erwartungsvoll
 008: Dungeon,Erwartungsvoll,Unheimlich
-009: Mystisch,Asien,Orient,Dschungel,Erwartungsvoll
+009: Mystisch,Asiatisch,Orient,Dschungel,Erwartungsvoll
 010: Melancholisch,Reise,Erwartungsvoll,Heroisch,Norden
 011: Düster,Erwartungsvoll,Bedrohlich
 012: Erwartungsvoll,Bedrohlich,Düster,Unheimlich
@@ -17,7 +17,7 @@
 016: Melancholisch,Düster
 017: Kampf,Verfolgung,Bedrohlich,Düster,Dramatisch
 018: Norden,Weitläufig,Mystisch,Erwartungsvoll
-019:
+019: 
 020: Erwartungsvoll,Düster,Verfolgung,Unheimlich,Nacht
 021: Erwartungsvoll,Düster,Verfolgung,Unheimlich,Nacht
 022: Erwartungsvoll,Düster,Verfolgung,Kampf,Nacht
@@ -35,5 +35,5 @@
 034: Düster,Unheimlich,Erwartungsvoll,Melancholisch
 035: Idyllisch,Mystisch,Nacht,Beruhigend
 036: Mystisch,Nacht,Erwartungsvoll
-037:
+037: 
 038: Mystisch,Unheimlich,Erwartungsvoll,Düster,Dungeon
